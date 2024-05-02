@@ -1,3 +1,9 @@
 Muhammad yousaf
 23-ST-050 
 cout<<"the sum of two num"<<a+b<<endl;
+cout<<"the sub of two num"<<a-b<<endl;
+cout<<"the mul of two num"<<a*b<<endl;
+cout<<"the div of two num"<<a/b<<endl;
+
+
+
