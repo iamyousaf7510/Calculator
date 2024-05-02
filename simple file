@@ -3,6 +3,7 @@ Muhammad yousaf
 cout<<"the sum of two num"<<a+b<<endl;
 cout<<"the sub of two num"<<a-b<<endl;
 cout<<"the mul of two num"<<a*b<<endl;
+cout<<"the div of two num"<<a/b<<endl;
 
 
 
